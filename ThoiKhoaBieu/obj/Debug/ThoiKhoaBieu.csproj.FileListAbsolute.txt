@@ -1,0 +1,1134 @@
+C:\Users\Administrator\Desktop\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\Administrator\Desktop\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\Administrator\Desktop\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\Administrator\Desktop\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Form1.resources
+C:\Users\Administrator\Desktop\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Form2.resources
+C:\Users\Administrator\Desktop\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\Administrator\Desktop\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\Administrator\Desktop\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Formtkb.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Form1.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Form2.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Formtkb.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.btnThu.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\System.Windows.Forms.Ribbon35.dll
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\bin\Debug\ThoiKhoaBieu.exe.config
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.exe
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.pdb
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\bin\Debug\ThoiKhoaBieu.exe
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\bin\Debug\ThoiKhoaBieu.pdb
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\bin\Debug\System.Windows.Forms.Ribbon35.dll
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.frmMain.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.frmLop.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\bin\Debug\MdiTabControl.dll
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\bin\Debug\MdiTabStrip.dll
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-03\bin\Debug\MdiTabControl.pdb
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\bin\Debug\ThoiKhoaBieu.exe.config
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.exe
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.pdb
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\bin\Debug\ThoiKhoaBieu.exe
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\bin\Debug\ThoiKhoaBieu.pdb
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\bin\Debug\MdiTabStrip.dll
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\bin\Debug\MdiTabControl.pdb
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.frmMain.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.frmLop.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+D:\hoclienthong\ThoiKhoaBieu\ThoiKhoaBieu-03\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\ThoiKhoaBieu.exe.config
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.exe
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.pdb
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\ThoiKhoaBieu.exe
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\ThoiKhoaBieu.pdb
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\MdiTabControl.dll
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\MdiTabStrip.dll
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\System.Windows.Forms.Ribbon35.dll
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\MdiTabControl.pdb
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmMain.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmLop.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+K:\TaiLieu\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\ThoiKhoaBieu.exe.config
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.exe
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.pdb
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\ThoiKhoaBieu.exe
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\ThoiKhoaBieu.pdb
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\MdiTabControl.dll
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\MdiTabStrip.dll
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\System.Windows.Forms.Ribbon35.dll
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\MdiTabControl.pdb
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmMain.resources
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmLop.resources
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+F:\BK Doc\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+F:\BK Doc\_OLD\TKB_Binh\ThoiKhoaBieu-04\bin\Debug\ThoiKhoaBieu.exe.config
+F:\BK Doc\_OLD\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.exe
+F:\BK Doc\_OLD\TKB_Binh\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.pdb
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\bin\Debug\ThoiKhoaBieu.exe.config
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.pdb
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\bin\Debug\ThoiKhoaBieu.exe
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\bin\Debug\ThoiKhoaBieu.pdb
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\bin\Debug\MdiTabStrip.dll
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\bin\Debug\System.Windows.Forms.Ribbon35.dll
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\bin\Debug\MdiTabControl.pdb
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmMain.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmLop.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.exe
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-04\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\bin\Debug\ThoiKhoaBieu.exe.config
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\obj\Debug\ThoiKhoaBieu.exe
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\obj\Debug\ThoiKhoaBieu.pdb
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\bin\Debug\ThoiKhoaBieu.exe
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\bin\Debug\ThoiKhoaBieu.pdb
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\bin\Debug\MdiTabStrip.dll
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\bin\Debug\System.Windows.Forms.Ribbon35.dll
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\bin\Debug\MdiTabControl.pdb
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\obj\Debug\ThoiKhoaBieu.frmMain.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\obj\Debug\ThoiKhoaBieu.frmLop.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu-05\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\bin\Debug\MdiTabStrip.dll
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\bin\Debug\System.Windows.Forms.Ribbon35.dll
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\bin\Debug\MdiTabControl.pdb
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+F:\BK Doc\Do an CNPM\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\bin\Debug\MdiTabStrip.dll
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\bin\Debug\MdiTabControl.pdb
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+D:\Hoc Tap\HT 2013-2014\CNPM\aaa\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+D:\DATN\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+D:\DATN\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+D:\DATN\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+D:\DATN\ThoiKhoaBieu\bin\Debug\MdiTabControl.pdb
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+D:\DATN\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+D:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangNhap.resources
+E:\DATN\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+E:\DATN\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+E:\DATN\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+E:\DATN\ThoiKhoaBieu\bin\Debug\MdiTabControl.pdb
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangNhap.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+E:\DATN\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+E:\DATN\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+E:\DATN\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\MdiTabControl.pdb
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangNhap.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\tund4\Downloads\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\MdiTabControl.pdb
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangNhap.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+E:\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\MdiTabControl.pdb
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangNhap.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+E:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+D:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+D:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+D:\Linh tinh\TN2014\TN2014\ThoiKhoaBieu\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+D:\Linh tinh\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+D:\Linh tinh\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+D:\Linh tinh\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+D:\Linh tinh\ThoiKhoaBieu\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Linh tinh\ThoiKhoaBieu\bin\Debug\MdiTabControl.pdb
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojResolveAssemblyReference.cache
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangNhap.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.Cache
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+D:\Linh tinh\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangNhap.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Documents\TN2014\TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\source\repos\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\toan\source\repos\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\source\repos\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\source\repos\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\toan\source\repos\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toan\source\repos\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojAssemblyReference.cache
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangNhap.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\source\repos\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangKy.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangKy.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\bin\Debug\FlatButton.dll
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\bin\Debug\JGradient Panel.dll
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\bin\Debug\JMetroTextBox.dll
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\bin\Debug\JTextBox.dll
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\bin\Debug\JTextBox2.dll
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\bin\Debug\JThinButton.dll
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDN.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmError.resources
+C:\Users\toan\source\repos\TKB_Form\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojAssemblyReference.cache
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangKy.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDN.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmError.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangKy.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDN.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmError.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Desktop\TestTKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojAssemblyReference.cache
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojAssemblyReference.cache
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangKy.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDN.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmError.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Desktop\Test\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangKy.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDN.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmError.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Desktop\Update-TKB\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojAssemblyReference.cache
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangKy.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDN.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmError.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Desktop\Update_TKB_v2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangKy.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDN.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmError.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.Licensing.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe.licenses
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojAssemblyReference.cache
+C:\Users\toan\Desktop\Update-TKB-Bunifu UI\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTest.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.Licensing.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangKy.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDN.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmError.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTest.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe.licenses
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Documents\.Toan_TKB_Database_2\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojAssemblyReference.cache
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangKy.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDN.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmError.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe.licenses
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.Licensing.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Documents\.Toan Dashboard\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csprojAssemblyReference.cache
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.Licensing.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangKy.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDN.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmError.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe.licenses
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\Users\toan\Documents\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\.Toan\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe.config
+C:\.Toan\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.exe
+C:\.Toan\ThoiKhoaBieu\bin\Debug\ThoiKhoaBieu.pdb
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.Licensing.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\.Toan\ThoiKhoaBieu\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.ResolveComReference.cache
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDangKy.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmDN.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmError.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSLH.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSMH.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKBGV.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMain.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhanLich.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmPhongHoc.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmTKB1.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmGiaoVien.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLop.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmMonhoc.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.Properties.Resources.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSGV.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.rptDSPH.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.GenerateResource.cache
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe.licenses
+C:\.Toan\ThoiKhoaBieu\obj\Debug\RdlCompile.cache
+C:\.Toan\ThoiKhoaBieu\obj\Debug\RdlCompile.compiled
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CoreCompileInputs.cache
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.csproj.CopyComplete
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.pdb
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmAlertForm1.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLoading.resources
+C:\.Toan\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmSuccesses.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.Dataviz.WinForms.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.Licensing.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.Dataviz.WinForms.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmAlertForm1.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmLoading.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.frmSuccesses.resources
+C:\Users\toan\Desktop\DATN_TKB_2021\ThoiKhoaBieu\obj\Debug\ThoiKhoaBieu.exe.licenses
